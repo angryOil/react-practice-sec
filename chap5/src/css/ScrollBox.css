@@ -1,0 +1,19 @@
+
+.outStyle{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    overflow: auto;
+    position: relative;
+    align-content: center;
+    justify-content: center;
+}
+
+.innerStyle{
+    width: 100%;
+    height: 650px;
+    background:linear-gradient(white,black);
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
