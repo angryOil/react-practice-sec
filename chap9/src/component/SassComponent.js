@@ -1,10 +1,10 @@
-import './../sass/SassComponent.scss';
+import '../styles/SassComponent.scss';
 
 
 const SassComponent = () => {
     return (
         <div className='SassComponent'>
-            <div>홀라</div>
+            <div>홀리몰리</div>
             <div className='box orange'/>
             <div className='box red'/>
             <div className='box yellow'/>
