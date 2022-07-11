@@ -3,6 +3,10 @@
 
 .SassComponent {
   display: flex;
+  background: $oc-gray-2;
+  @include media('<738px'){
+  background: $oc-grape-9;
+  }
 
   .box {
     background: red;
