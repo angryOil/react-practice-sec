@@ -14,7 +14,6 @@ function App() {
                 target="_blank"
                 rel="noopener noreferrer"
             >
-                스테이시 잘적용 되나요?
                 스테이시
                 스테이시 했습니다
             </a>
